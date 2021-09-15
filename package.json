@@ -1,0 +1,13 @@
+{
+  "name": "archive-compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "archiver-zip-encryptable": "^1.0.10"
+  }
+}
